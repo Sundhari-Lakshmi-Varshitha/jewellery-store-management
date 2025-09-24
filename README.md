@@ -3,7 +3,7 @@
 
 ## Problem Statement
 
-Jewelry stores like Golden Era Enterprises face challenges in managing customer relationships, tracking sales, and offering personalized services. Customers often do not receive timely updates on new collections, exclusive offers, or important services such as repairs and maintenance. Sales staff may not have access to complete customer profiles or purchase history, making it difficult to deliver personalized recommendations or upsell effectively. Inventory tracking and post-sale services like resizing or repair updates are often handled manually, resulting in inefficiencies and delays. There is no single system that connects customer preferences, sales data, inventory, and marketing efforts—making it harder to deliver a seamless and memorable shopping experience.
+Jewelry stores like Jewellery sho face challenges in managing customer relationships, tracking sales, and offering personalized services. Customers often do not receive timely updates on new collections, exclusive offers, or important services such as repairs and maintenance. Sales staff may not have access to complete customer profiles or purchase history, making it difficult to deliver personalized recommendations or upsell effectively. Inventory tracking and post-sale services like resizing or repair updates are often handled manually, resulting in inefficiencies and delays. There is no single system that connects customer preferences, sales data, inventory, and marketing efforts—making it harder to deliver a seamless and memorable shopping experience.
 
 ## Proposed Salesforce Solution
 
@@ -20,3 +20,11 @@ Jewelry stores like Golden Era Enterprises face challenges in managing customer 
   - Customer buying trends  
   - Inventory levels and reorder alerts  
   - Customer engagement and service history
+ 
+
+
+Jewellery Store Management Salesforce Progect Demo Video Link
+https://drive.google.com/file/d/116qRuJlOtI4fSvTNmVxqCsJ8c-NASL0T/view?usp=drive_link
+
+
+
